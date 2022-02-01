@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanelul2000&label=Profile%20views&color=0e75b6&style=flat" alt="stefanelul2000" /> </p>
 
-<p align="left"> <a href="https://twitter.com/s.ciubik" target="blank"><img src="https://img.shields.io/twitter/follow/s.ciubik?logo=twitter&style=for-the-badge" alt="s.ciubik" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ciubinet" target="blank"><img src="https://img.shields.io/twitter/follow/s.ciubik?logo=twitter&style=for-the-badge" alt="s.ciubik" /></a> </p>
 
 - 📫 How to reach me **stefan@ciubi.net**
 
